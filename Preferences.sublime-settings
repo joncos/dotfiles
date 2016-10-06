@@ -1,0 +1,40 @@
+{
+	"binary_file_patterns":
+	[
+		"dist/*",
+		"node_modules/*",
+		"*.jpg",
+		"*.jpeg",
+		"*.png",
+		"*.gif",
+		"*.ttf",
+		"*.tga",
+		"*.dds",
+		"*.ico",
+		"*.eot",
+		"*.pdf",
+		"*.swf",
+		"*.jar",
+		"*.zip"
+	],
+	"color_scheme": "Packages/schemes/jc_light.tmtheme",
+	"folder_exclude_patterns":
+	[
+		"tmp",
+		".git",
+		".idea",
+		".sass-cache"
+	],
+	"font_face": "Meslo LG L",
+	"font_size": 14,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"tab_size": 2,
+	"theme": "Lanzhou.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"ui_separator": "true",
+	"word_separators": "./\\()\"'-:,.;<>~!@#$%^&*|+=[]{}`~?",
+	"word_wrap": "true"
+}
